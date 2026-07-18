@@ -275,16 +275,6 @@ This project provided practical experience with:
 
 ---
 
-## Screenshots
-
-Add screenshots of the application here.
-
-| Home Page | Summary Output |
-|-----------|----------------|
-| *Home Interface* | *Generated Summary* |
-
----
-
 ## Contributing
 
 Contributions are welcome.
