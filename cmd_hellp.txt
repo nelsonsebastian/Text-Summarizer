@@ -1,0 +1,11 @@
+#python 3.9
+pip install PyMuPDF
+pip install  summarizer
+pip install transformers
+pip install bert-extractive-summarizer
+torch==1.10.2
+
+
+
+
+
